@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "bloxd-launcher",
+      "title": "Bloxd.io Desktop UnOfficial",
+      "description": "Bloxd.ioを簡単に実行できるようになるアプリです。",
+      "version": "1.2.0",
+      "price": "FREE",
+      "downloadUrl": "https://product.rec877.com/bloxd_client_download",
+      "category": "launcher"
+    }
+  ]
+}
