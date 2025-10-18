@@ -8,6 +8,15 @@
       "price": "FREE",
       "downloadUrl": "https://product.rec877.com/bloxd_client_download",
       "category": "launcher"
+    },
+    {
+      "id": "autorotatecontrol",
+      "title": "Auto Rotate Control",
+      "description": "自動回転設定を簡単に切り替えられるAndroidアプリです。",
+      "version": "1.0.0",
+      "price": "FREE",
+      "downloadUrl": "https://product.rec877.com/asset/apps/AutoRotateControl/1.0.0/autorotatecontrol1.0.0.apk",
+      "category": "productivity"
     }
   ]
 }
