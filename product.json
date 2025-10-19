@@ -16,7 +16,16 @@
       "version": "1.0.1",
       "price": "FREE",
       "downloadUrl": "https://product.rec877.com/asset/apps/AutoRotateControl/app.apk",
-      "category": "productivity"
+      "category": "androidapp"
+    },
+    {
+      "id": "rectrystore",
+      "title": "RecTryStore",
+      "description": "Rec877Dev製のAndroidアプリを簡単に管理できるストアアプリ",
+      "version": "1.0.0",
+      "price": "FREE",
+      "downloadUrl": "https://product.rec877.com/asset/apps/RecTryStore/app.apk",
+      "category": "androidapp"
     }
   ]
 }
