@@ -1,8 +1,17 @@
 //RecTryStoreにて必要となる最新版チェック+ストア内アプリの掲載用JSONです。
 //com.rec877dev.<PackId>は最新版のバージョン値を記入します、これは必須です。
 //com.rec877dev.<PackId>.appiconはストア内で表示されるアプリアイコンです。これも必須です。
-//com.rec877dev.<PackId>.appthumbnail-<Value>は必須ではありません。しかし画像を掲載しない時は必ず""記入してください。
+//com.rec877dev.<PackId>.appthumbnail-<Value>は必須ではありません。しかし画像を掲載しない時は必ず""を記入してください。
 {
+    "com.rec877dev.rectrystore": "1.0.0",
+    "com.rec877dev.rectrystore-appicon": "https://i.imgur.com/0MJJf9f.png",
+    "com.rec877dev.rectrystore-appthumbnail-big": "https://i.imgur.com/q3byLo9.png",
+    "com.rec877dev.rectrystore-appthumbnail-one": "",
+    "com.rec877dev.rectrystore-appthumbnail-two": "",
+    "com.rec877dev.rectrystore-appthumbnail-three": "",
+    "com.rec877dev.rectrystore-appthumbnail-four": "",
+    "com.rec877dev.rectrystore-appthumbnail-five": "",
+    "com.rec877dev.rectrystore-downloadlink": "https://product.rec877.com/asset/apps/RecTrayStore/app.apk",
     "com.rec877dev.autorotatecontrol": "1.0.1",
     "com.rec877dev.autorotatecontrol-appicon": "https://i.imgur.com/ZpcWn0m.png",
     "com.rec877dev.autorotatecontrol-appthumbnail-big": "",
