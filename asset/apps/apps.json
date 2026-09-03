@@ -47,5 +47,14 @@
     "com.uirusuniki.nonumberblock-appthumbnail-three": "",
     "com.uirusuniki.nonumberblock-appthumbnail-four":"",
     "com.uirusuniki.nonumberblock-appthumbnail-five": "",
-    "com.uirusuniki.nonumberblock-downloadlink": "https://product.rec877.com/asset/apps/NoNumberBlock/app.apk"
+    "com.uirusuniki.nonumberblock-downloadlink": "https://product.rec877.com/asset/apps/NoNumberBlock/app.apk",
+    "com.rec877.timetablewidget": "1.1",
+    "com.rec877dev.timetablewidget-appicon": "https://i.imgur.com/nVfK5HE.png",
+    "com.rec877dev.timetablewidget-appthumbnail-big": "",
+    "com.rec877dev.timetablewidget-appthumbnail-one": "",
+    "com.rec877dev.timetablewidget-appthumbnail-two": "",
+    "com.rec877dev.timetablewidget-appthumbnail-three": "",
+    "com.rec877dev.timetablewidget-appthumbnail-four": "",
+    "com.rec877dev.timetablewidget-appthumbnail-five": "",
+    "com.rec877dev.timetablewidget-downloadlink": "https://product.rec877.com/asset/apps/TimeTableCalendar/app.apk"
 }
